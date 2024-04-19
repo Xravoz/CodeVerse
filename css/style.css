@@ -948,8 +948,7 @@ footer .center p{
     flex-direction: column;
   }
   .trues{
-    display: flex;
-    flex-direction: column;
+    display: none;
   }
 }
 
