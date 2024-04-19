@@ -950,6 +950,9 @@ footer .center p{
   .trues{
     display: none;
   }
+   .text-formss h1{
+    display: none;
+  }
 }
 
 /* --------------- 500px Screens --------------- */
